@@ -1,7 +1,7 @@
-# Hi 👋, I'm Prajwol Neupane
+Hi 👋, I'm Prajwol Neupane
 
 <div align="center">
-  
+  
 ### 🚀 Full-Stack Developer | Problem Solver | Tech Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Flutter+%7C+React+%7C+Firebase+Developer;Mobile+%26+Web+Application+Developer;Always+Learning+New+Technologies;Open+to+Collaboration+%26+Opportunities!" alt="Typing SVG" />
@@ -64,7 +64,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=prajwol999&theme=algolia&no-frame=false&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
@@ -74,7 +74,7 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
+  
 <img width="390" src="https://github-readme-stats.vercel.app/api?username=prajwol999&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
 
 <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwol999&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
@@ -82,7 +82,7 @@
 </div>
 
 <div align="center">
-  
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prajwol999&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 </div>
@@ -92,7 +92,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  
+  
 ![Snake animation](https://raw.githubusercontent.com/prajwol999/prajwol999/output/github-contribution-grid-snake.svg)
 
 </div>
@@ -102,7 +102,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  
+  
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prajwol999&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
@@ -112,7 +112,7 @@
 
 
 <div align="center">
-  
+  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
 
 </div>
@@ -120,7 +120,7 @@
 ---
 
 <div align="center">
-  
+  
 ### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 **Thank you for visiting my profile! Let's connect and build something amazing together! 🚀**
